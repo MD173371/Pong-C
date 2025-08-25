@@ -1,2 +1,2 @@
 # Pong-C
-C/SDL Pong Game
+C/SDL2 Pong Game
